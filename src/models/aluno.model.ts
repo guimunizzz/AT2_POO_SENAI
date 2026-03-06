@@ -131,7 +131,7 @@ export class Aluno extends Pessoa {
     }
 
     private _validarMedia(value: number): void {
-        if (isNaN(value)) {
+        if (Number.isNaN(value)) {
             throw new Error('Média deve ser um número')
         }
         if (value > 10 || value < 0) {
