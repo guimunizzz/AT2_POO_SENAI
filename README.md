@@ -301,10 +301,10 @@ Content-Type: application/json
 
 {
   "nome": "Carlos Eduardo",
-  "email": "carlos@email.com",
+  "email": "carlindopneu@email.com",
   "matricula": "202401",
   "curso": "Ciência da Computação",
-  "mediaFinal": 9.0
+  "mediaFinal": 6.7
 }
 ```
 
